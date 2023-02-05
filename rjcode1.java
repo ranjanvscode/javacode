@@ -8,8 +8,7 @@ class rjcode{
 
 	public void m2
 	{
-		//code
-		//This is our modified code
+		// pushing method checking
 
 	}
 
