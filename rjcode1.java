@@ -6,7 +6,7 @@ class rjcode{
 
 	}
 
-	public void m1
+	public void m2
 	{
 		//code
 		//This is our modified code
