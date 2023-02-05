@@ -6,14 +6,11 @@ class rjcode{
 
 	}
 
-	public void m2
+	public void m1
 	{
 		//code
+		//This is our modified code
 
 	}
-	public void m3
-	{
-		//code
 
-	}
 }
